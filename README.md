@@ -1,5 +1,9 @@
-#Starter Web Project
+# Starter Web Project
+
 this is a simple
-##Introduction
-##Purpose
-##Deployment
+
+## Introduction
+
+## Purpose
+
+## Deployment
