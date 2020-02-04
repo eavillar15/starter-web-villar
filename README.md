@@ -8,3 +8,6 @@ khjlkjl
 jlklk
 ## Deployment
 juju eats
+
+## COPYRIGHT
+kiel pogi
