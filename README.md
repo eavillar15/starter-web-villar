@@ -10,7 +10,7 @@ jlklk
 juju eats tewup
 
 ## COPYRIGHT
-kiel pogi
+kiel pogi All rights reserved
 
 ## aldrin turbo master
 
