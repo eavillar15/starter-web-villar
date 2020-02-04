@@ -3,7 +3,7 @@
 this is a simple
 
 ## Introduction
-khjlkjl
+Sabi ko na Barbie ehhhh
 ## Purpose
 jlklk
 ## Deployment
